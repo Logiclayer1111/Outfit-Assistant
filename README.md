@@ -20,12 +20,11 @@ A Full-Stack Web Application implemented with React, TensorFlow.js, OpenWeather 
 
 ## Demo
 
-![Project Demo](https://github.com/CharanSuggala26/Outfit-Assistant/blob/main/client/public/images/work3.png)
-![Project Demo](https://github.com/CharanSuggala26/Outfit-Assistant/blob/main/client/public/images/work.png)
-![Project Demo](https://github.com/CharanSuggala26/Outfit-Assistant/blob/main/client/public/images/work2.png)
-![Project Demo](https://github.com/CharanSuggala26/Outfit-Assistant/blob/main/client/public/images/work4.png)
-![Project Demo](https://github.com/CharanSuggala26/Outfit-Assistant/blob/main/client/public/images/work5.png)
-![Project Demo](https://github.com/CharanSuggala26/Outfit-Assistant/blob/main/client/public/images/tryon.png)
+![Project Demo](https://github.com/Logiclayer1111/Outfit-Assistant/blob/main/client/public/images/work3.png)
+![Project Demo](https://github.com/Logiclayer1111/Outfit-Assistant/blob/main/client/public/images/work.png)
+![Project Demo](https://github.com/Logiclayer1111/Outfit-Assistant/blob/main/client/public/images/work2.png)
+![Project Demo](https://github.com/Logiclayer1111/Outfit-Assistant/blob/main/client/public/images/work4.png)
+![Project Demo](https://github.com/Logiclayer1111/Outfit-Assistant/blob/main/client/public/images/work5.png)
 
 
 
