@@ -91,6 +91,6 @@ npm run dev  # Runs the Vite development server
 
 ## Contact
 For any inquiries, reach out to:
-- **Sai Charan Suggala** - [LinkedIn](https://www.linkedin.com/in/saicharansuggala/)
-- **Email:** suggalasaicharan789@gmail.com
-- **For More Projects & Collaboration** -[Portfolio](https://my-portfolio-lovat-six-79.vercel.app/)
+- **Antoni Nowicki** - [LinkedIn](https://www.linkedin.com/in/antoni-nowicki/)
+- **Email:** atn2122804@gmail.com
+- **For More Projects & Collaboration** -[Portfolio](https://my-portfolio-antoni-six-78.vercel.app/)
