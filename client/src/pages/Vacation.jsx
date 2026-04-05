@@ -63,9 +63,6 @@ function Vacation() {
       const response = await axios.post('http://localhost:4700/model/try-on', {
         model_image://userImage,
         
-        "D:\\Outfit Assistant\\server\\APIs\\assets\\Kohli.png",
-        cloth_image://outfit.thumbnail,
-
         "D:\\Outfit Assistant\\server\\APIs\\assets\\csk.png",
       });
 
