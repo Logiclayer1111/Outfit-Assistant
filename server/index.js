@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 
 
-const client = new MongoClient(process.env.DB_URI);
+const client = new MongoClient(process.env.DATABASE_URL);
 client
     .connect()
     .then(() => {
