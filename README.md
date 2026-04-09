@@ -102,4 +102,4 @@ For any inquiries, reach out to:
 
 - **Antoni Nowicki** - [LinkedIn](https://www.linkedin.com/in/antoni-nowicki/)
 - **Email:** atn2122804@gmail.com
-- **For More Projects & Collaboration** -[Portfolio](https://wdevfolio.netlify.app/)
+- **For More Projects & Collaboration** -[My portfolio](https://wdevfolio.netlify.app/)
